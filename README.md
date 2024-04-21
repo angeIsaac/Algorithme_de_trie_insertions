@@ -3,8 +3,8 @@ EXPLICATION DE L'AGORITHME PAR INSERTION
 
     - Commencer le deuxieme elements (en suposant que le premier element est la partie triée).
     - Stockez l'element courant dans une clé.
-    - Verifierz tous les éléments de la partie triéé qui se trouve a gauche de le clé, si un élément est plis grand que la 
-      clé, decalez le vers la droite.
+    - Verifierz tous les éléments de la partie triéé qui se trouve a gauche de le clé, si un élément est plus grand que la 
+      clé, decalez-le vers la droite.
     - inserez la clé dans sa position correct.
     - passer a la touche suivante, repetez les étapes.
 
